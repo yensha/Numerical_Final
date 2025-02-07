@@ -64,6 +64,8 @@ There are several enhancements planned for this project:
 ---
 
 ## Results & Demonstration  
+**GUI will look like this**
+
 A demonstration of the project can be found on YouTube:  
 [![YouTube Video](https://img.youtube.com/vi/xWOcHnAKNi4/0.jpg)](https://youtu.be/xWOcHnAKNi4)  
 🔗 **[Watch the video here](https://youtu.be/xWOcHnAKNi4)**  
